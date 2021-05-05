@@ -4,7 +4,7 @@
 
 ## About
 
-Have you ever wanted to visit the website from *IT Crowd*'s S06E01 episode? Well, now you can at http://ladyproblems.co.uk/.
+Have you ever wanted to visit the website from *IT Crowd*'s S01E06 episode? Well, now you can at http://ladyproblems.co.uk/.
 
 <p align="center">
     <img src="Brilliant.gif" width=500 />
